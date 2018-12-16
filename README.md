@@ -11,12 +11,12 @@ Manage jobs/builds easily into one clear dashboard and get notified. For now it 
 - Manage jobs / builds within groups
 - Dark and Light theme
 
-![alt dashboard](https://raw.githubusercontent.com/Codeward/Sparkle/master/images/Sparkle - v1.2.0 - Minimal.png)
+![alt dashboard](https://raw.githubusercontent.com/Codeward/Sparkle/master/images/Sparkle-v1.2.0-Minimal.png)
 
 
 ## Dashboard
 
-![alt dashboard](https://raw.githubusercontent.com/Codeward/Sparkle/master/images/Sparkle - v1.2.0.png) 
+![alt dashboard](https://raw.githubusercontent.com/Codeward/Sparkle/master/images/Sparkle-v1.2.0.png) 
 
 - Favourites on top
   - Mouse click opens Job url
